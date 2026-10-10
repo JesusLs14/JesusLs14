@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Jesús López! 👋
 
-<!--
-**JesusLs14/JesusLs14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student focused on software development, scalable solution design, and rapid prototyping for hackathons and real-world projects.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
+- **Languages:** Python, Java, SQL
+- **Focus Areas:** Data structures, backend development, application architecture
+- **Tools:** Git, GitHub, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Building impactful prototypes for hackathons and open-source challenges.
+- Deepening my knowledge in relational database design and efficient algorithms.
+
+### Connect with me
+- LinkedIn: [Jesus Manuel Lopez Salazar](linkedin.com/in/jesusls14)
+- Email: jesus.lopez.salazar14@gmail.com
